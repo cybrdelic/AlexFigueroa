@@ -37,7 +37,7 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
   - Develop a CLI tool using these automation tools that takes an idea through research, requirements breakdown, and ticket handling.
   - Create another CLI tool that takes tickets as input and autonomously implements, tests, and deploys solutions.
 - **Long-Term**: 
-  - Merge these systems into a cohesive, self-improving, fully autonomous system for end-to-end software development and continuous autonomous deployment and iteration.
+  - Merge these systems into a cohesive, self-improving, fully autonomous system for end-to-end software development and continuous autonomous deployment and iteration (from idea to live, constantly iterated product or tool).
   
   Additional aspirational goals include:
   
