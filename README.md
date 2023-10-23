@@ -14,12 +14,13 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
 
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) 
 - **Technologies**: 
-  ![Docker](https://simpleicons.org/icons/docker.svg) 
-  ![React](https://simpleicons.org/icons/react.svg) 
-  ![GraphQL](https://simpleicons.org/icons/graphql.svg) 
-  ![Apollo GraphQL](https://simpleicons.org/icons/apollographql.svg) 
-  ![Flask](https://simpleicons.org/icons/flask.svg)
-  ![Django](https://simpleicons.org/icons/django.svg)
+  <img src="https://simpleicons.org/icons/docker.svg" width="30" height="30"/>
+  <img src="https://simpleicons.org/icons/react.svg" width="30" height="30"/>
+  <img src="https://simpleicons.org/icons/graphql.svg" width="30" height="30"/>
+  <img src="https://simpleicons.org/icons/apollographql.svg" width="30" height="30"/>
+  <img src="https://simpleicons.org/icons/flask.svg" width="30" height="30"/>
+  <img src="https://simpleicons.org/icons/django.svg" width="30" height="30"/>
+
 - **Methodologies**: Infrastructure as Code, Agile, Test-Driven Development
 
 
