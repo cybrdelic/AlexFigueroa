@@ -12,7 +12,7 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
 
 ## 🛠 Skills
 
-- **Languages**: Python, Shell, TypeScript, Bash
+- **Languages**: ![Python](./python-icon.png) Python, ![Shell](./shell-icon.png) Shell, ![TypeScript](./typescript-icon.png) TypeScript, ![Bash](./bash-icon.png) Bash
 - **Technologies**: Docker, React, GraphQL, Apollo, Flask, Django
 - **Methodologies**: Infrastructure as Code, Agile, Test-Driven Development
 
