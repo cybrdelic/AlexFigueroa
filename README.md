@@ -6,21 +6,21 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm Alejandro Figueroa, a Full-Stack Developer with a unique focus on developing fully autonomous software systems. I'm currently at TalentNow, driving innovation in B2B SaaS. What sets me apart is my ambition to automate not just tasks but the entire software development lifecycle, aiming for systems that can self-improve and adapt. I am building all my systems to be open-source. 
+I'm Alejandro Figueroa, a Full-Stack Developer specializing in creating fully autonomous software systems. Currently employed at TalentNow, I'm revolutionizing B2B SaaS solutions. My unique contribution lies in my quest to fully automate the software development lifecycle, with a focus on self-improving and adaptive systems. All of my projects are open-source, adhering to my belief in decentralization and the distribution of access to solutions.
 
 ## 🛠 Skills
 
 - **Languages**: Python, Shell, TypeScript, Bash
-- **Technologies**: Docker, Web Tech (React, GraphQL, Apollo, Flask, Django)
+- **Technologies**: Docker, React, GraphQL, Apollo, Flask, Django
 - **Methodologies**: Infrastructure as Code, Agile, Test-Driven Development
 
 ## 🚀 Projects
 
-- [Python-spin-up](https://github.com/cybrvybe/python-spin-up): Streamline Python project creation.
-- [RunDBFast](https://github.com/cybrvybe/rundbfast): Simplify database deployments.
-- [WorkspaceAutomator](https://github.com/cybrvybe/workspace-automator): Automate your daily workspace setup.
-- [CodebaseUtils](https://github.com/cybrvybe/codespace_utils): Utility library for developers.
-- [WindowsPowershellScripts](https://github.com/cybrvybe/powershell-windows-automation-scripts): Automation scripts for Windows.
+- [Python-spin-up](https://github.com/cybrvybe/python-spin-up): A CLI tool for streamlining Python project creation.
+- [RunDBFast](https://github.com/cybrvybe/rundbfast): Effortlessly spin up databases for rapid prototyping and consistent dev setups.
+- [WorkspaceAutomator](https://github.com/cybrvybe/workspace-automator):  A tool for autonomous daily setup of your work environment and workspace/monitor setup.
+- [CodebaseUtils](https://github.com/cybrvybe/codespace_utils): A shared util library for handling common developer tasks, like copying the simplified, relevant codebase directory tree to the clipboard to paste into LLMs.
+- [WindowsPowershellScripts](https://github.com/cybrvybe/powershell-windows-automation-scripts): A shared script library for handling basic, recurrent windows tasks, such as setting up your dev environment on your local, via installations, etc, as well as some docker debugging scripts.
 
 ## 📚 Blog Posts
 
