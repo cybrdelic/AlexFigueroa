@@ -6,9 +6,9 @@
 
 ## 👨‍💻 About Me
 
-I'm Alejandro Figueroa, a Full-Stack Developer specializing in creating fully autonomous software systems. Currently employed at TalentNow, I'm on a professional team of software engineers and QA testers, working on a multi-million dollar B2B SaaS project servicing Fortune 50 companies in multi-tenant talent management and analytics. 
+I'm Alejandro Figueroa, a Full-Stack Developer specializing in creating fully autonomous software systems. Currently employed at a small sized startup within a larger parent company structure, I'm on a professional team (~10 people) of software engineers and QA testers, working on a multi-million dollar B2B SaaS platform servicing Fortune 50 companies in multi-tenant talent management and analytics. 
 
-My unique contribution to the tech industry lies in my quest to fully automate the entire end-to-end software development lifecycle (from idea to continuous deployment and iteration), with a focus on self-improving and adaptive systems. All of my projects are open-source, adhering to my belief in decentralization and the distribution of access to solutions.
+Beyond my day job, my unique contribution to the tech industry lies in my quest to fully automate the entire end-to-end software development lifecycle (from idea to continuous deployment and iteration), with a focus on self-improving and adaptive systems. All of my projects are open-source, adhering to my belief in decentralization and the distribution of access to solutions.
 
 ## 🛠 Skills
 
