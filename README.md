@@ -28,7 +28,7 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
   ```
 - [WorkspaceAutomator](https://github.com/cybrvybe/workspace-automator):  A tool for autonomous daily setup of your work environment and workspace/monitor setup.
   ```bash
-  pip install windows_workspace_automator=
+  pip install windows_workspace_automator
   ```
 - [CodebaseUtils](https://github.com/cybrvybe/codespace_utils): A shared util library for handling common developer tasks, like copying the simplified, relevant codebase directory tree to the clipboard to paste into LLMs.
   ```bash
