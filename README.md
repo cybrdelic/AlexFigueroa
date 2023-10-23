@@ -1,60 +1,57 @@
 # Alejandro Figueroa 👋
 
-![GitHub followers](https://img.shields.io/github/followers/cybrvybe?style=social) ![GitHub stars](https://img.shields.io/github/stars/cybrvybe?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/cybrvybe/rundbfast)
+![GitHub followers](https://img.shields.io/github/followers/cybrvybe?style=social)
+![GitHub stars](https://img.shields.io/github/stars/cybrvybe?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/cybrvybe/rundbfast)
 
 ## 👨‍💻 About Me
 
-Hey there! I'm Alejandro, a Full-Stack Developer specializing in building fully autonomous software systems and tools - both shared CLI tools and libraries, and web application tooling. Currently, I'm working at TalentNow, where I contribute to shaping the future of B2B SaaS. I'm an accelerationist, deeply passionate about decentralizing power through technology and always excited to talk about technototalitarianism and the singularity.
-
----
+Hello! I'm Alejandro Figueroa, a Full-Stack Developer with a unique focus on developing fully autonomous software systems. I'm currently at TalentNow, driving innovation in B2B SaaS. What sets me apart is my ambition to automate not just tasks but the entire software development lifecycle, aiming for systems that can self-improve and adapt. I am building all my systems to be open-source. 
 
 ## 🛠 Skills
 
 - **Languages**: Python, Shell, TypeScript, Bash
-- **Technologies**: Docker, Automation, Full-Stack Development, Web Technologies (React, GraphQL, Apollo, Flask, Django, etc)
+- **Technologies**: Docker, Web Tech (React, GraphQL, Apollo, Flask, Django)
 - **Methodologies**: Infrastructure as Code, Agile, Test-Driven Development
-
----
 
 ## 🚀 Projects
 
-- [Python-spin-up](https://github.com/cybrvybe/python-spin-up): A CLI tool for streamlining Python project creation.
-- [RunDBFast](https://github.com/cybrvybe/rundbfast): Effortlessly spin up databases for rapid prototyping and consistent dev setups.
-- [WorkspaceAutomator](https://github.com/cybrvybe/workspace-automator): A tool for autonomous daily setup of your work environment and workspace/monitor setup.
-- [CodebasedUtils](https://github.com/cybrvybe/codebased-utils): A shared util library for handling common developer tasks, like copying the simplified, relevant codebase directory tree to the clipboard to paste into LLMs.
-- [WindowsPowershellScripts](https://github.com/cybrvybe/windows-powershell-scripts): A shared script library for handling basic, recurrent windows tasks, such as setting up your dev environment on your local, via installations, etc, as well as some docker debugging scripts.
-
----
+- [Python-spin-up](https://github.com/cybrvybe/python-spin-up): Streamline Python project creation.
+- [RunDBFast](https://github.com/cybrvybe/rundbfast): Simplify database deployments.
+- [WorkspaceAutomator](https://github.com/cybrvybe/workspace-automator): Automate your daily workspace setup.
+- [CodebaseUtils](https://github.com/cybrvybe/codespace_utils): Utility library for developers.
+- [WindowsPowershellScripts](https://github.com/cybrvybe/powershell-windows-automation-scripts): Automation scripts for Windows.
 
 ## 📚 Blog Posts
 
-- [The Future of Autonomous Systems](https://myblog.com/future-of-autonomous-systems)
-- [Decentralizing Power in Tech](https://myblog.com/decentralizing-power)
-
----
+- [The Future of Autonomous Systems](#)
+- [Decentralizing Power in Tech](#)
 
 ## 📈 Goals
-- Develop a suite of automation tooling to speed up all software development related activities.
-- Use this suite of automation tooling to build a CLI tool, which uses LLMs to extrapolate on a project idea - end-to-end - from idea, to extrapolation, to research, to requirements breakdown, to ticket handling. 
-- Use the suite of automation tooling to help me build a CLI tool, which takes tickets as input, and autonomously implements and tests and deploys the solutions to the tickets. 
-- Combine the above 2 systems with each other to form a cohesive, recursive, self-improving, fully autonomous system for end-to-end software development - from idea to deployment and continuous/infinite iteration. This is essentially a self-improving system, with the capability to write enterprise-grade software systems fully autonomously; a fully autonomous software forge. 
 
-- Building the most advanced technologies in the world.
-- Creating an autonomous civilization seed system for every home on Earth.
-- Automation of automation.
-- Achieving Artificial Super Intelligence (ASI).
+- **Short-Term**: Create a suite of automation tools designed to accelerate all aspects of software development.
+- **Mid-Term**: 
+  - Develop a CLI tool using these automation tools that takes an idea through research, requirements breakdown, and ticket handling.
+  - Create another CLI tool that takes tickets as input and autonomously implements, tests, and deploys solutions.
+- **Long-Term**: 
+  - Merge these systems into a cohesive, self-improving, fully autonomous system for end-to-end software development and continuous autonomous deployment and iteration.
+  
+  Additional aspirational goals include:
+  
+  - Pioneering cutting-edge technologies.
+  - Launching an autonomous civilization seed system.
+  - Mastering the automation of automation.
+  - Achieving Artificial Super Intelligence (ASI).
+  - Develop decentralized systems that make technototalitarianism impossible.
+  
 
----
+## 📫 Contact
 
-## 📫 How to Reach Me
-
-- Email: [cybrvybe@gmail.com](mailto:alexfigueroa.cybr@gmail.com)
-- LinkedIn: [Alejandro Figueroa](https://www.linkedin.com/in/alejandro-figueroa/)
-- Portfolio: [cybrvybe.github.io](https://cybrvybe.github.io)
-
----
+- 📧 [Email](mailto:cybrvybe@gmail.com)
+- 👔 [LinkedIn](https://www.linkedin.com/in/alejandro-figueroa/)
+- 🌐 [Portfolio](https://cybrvybe.github.io)
 
 ## 🙏 Acknowledgments
 
-Special thanks to all the open-source maintainers and contributors who make the developer ecosystem a better place.
+A heartfelt thank you to all open-source maintainers and contributors who enrich the tech community.
 
