@@ -52,7 +52,6 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
 
 - 📧 [Email](mailto:cybrvybe@gmail.com)
 - 👔 [LinkedIn](https://www.linkedin.com/in/alejandro-figueroa/)
-- 🌐 [Portfolio](https://cybrvybe.github.io)
 
 ## 🙏 Acknowledgments
 
