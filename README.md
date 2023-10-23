@@ -26,8 +26,9 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
 
 ## 📚 Blog Posts
 
-- [The Future of Autonomous Systems](#)
-- [Decentralizing Power in Tech](#)
+- [The Intricacies of Probability: A Strong Case for Murphy’s Law and Decentralized Governance](https://cybrvybe.medium.com/the-intricacies-of-probability-a-strong-case-for-murphys-law-and-decentralized-governance-88bd093e2b69)
+- [Rethinking Data-Driven Assumptions: The Impact of Confounding Variables on Success](https://cybrvybe.medium.com/is-data-clouding-your-judgement-2e684849eeb3)
+- [The Unyielding Grip of Techno-Totalitarianism: The Inescapable Lock-In of Technological and Political Control](https://cybrvybe.medium.com/the-impending-doom-of-techno-totalitarian-lock-in-a-comprehensive-analysis-581ed961d57d)
 
 ## 📈 Goals
 
