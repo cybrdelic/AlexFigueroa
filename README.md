@@ -45,6 +45,7 @@ My unique contribution to the tech industry lies in my quest to fully automate t
   - Mastering the automation of automation.
   - Achieving Artificial Super Intelligence (ASI).
   - Develop decentralized systems that make technototalitarianism impossible.
+  - Innovate in creating compact end-to-end hardware automation systems to make hardware and robotics, fully autonomously. 
   
 
 ## 📫 Contact
