@@ -12,17 +12,24 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
 
 ## 🛠 Skills
 
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) 
-- **Technologies**: 
-  <img src="https://simpleicons.org/icons/docker.svg" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/react.svg" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/graphql.svg" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/apollographql.svg" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/flask.svg" width="30" height="30"/>
-  <img src="https://simpleicons.org/icons/django.svg" width="30" height="30"/>
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 
-- **Methodologies**: Infrastructure as Code, Agile, Test-Driven Development
+### Technologies
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?logo=apollo-graphql&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 
+### Methodologies
+![Infrastructure as Code](https://img.shields.io/badge/-Infrastructure%20as%20Code-orange)
+![Agile](https://img.shields.io/badge/-Agile-008080)
+![Test-Driven Development](https://img.shields.io/badge/-TDD-blue)
 
 ## 🚀 Projects
 
