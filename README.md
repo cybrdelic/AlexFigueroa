@@ -12,9 +12,10 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
 
 ## 🛠 Skills
 
-- **Languages**: ![Python](./python-icon.png) Python, ![Shell](./shell-icon.png) Shell, ![TypeScript](./typescript-icon.png) TypeScript, ![Bash](./bash-icon.png) Bash
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) 
 - **Technologies**: Docker, React, GraphQL, Apollo, Flask, Django
 - **Methodologies**: Infrastructure as Code, Agile, Test-Driven Development
+
 
 ## 🚀 Projects
 
