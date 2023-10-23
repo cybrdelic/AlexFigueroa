@@ -19,11 +19,22 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
 ## 🚀 Projects
 
 - [Python-spin-up](https://github.com/cybrvybe/python-spin-up): A CLI tool for streamlining Python project creation.
+  ```bash
+  pip install python_spin_up  # Installation command
+  ```
 - [RunDBFast](https://github.com/cybrvybe/rundbfast): Effortlessly spin up databases for rapid prototyping and consistent dev setups.
+  ```bash
+  pip install rundbfast # Installation command
+  ```
 - [WorkspaceAutomator](https://github.com/cybrvybe/workspace-automator):  A tool for autonomous daily setup of your work environment and workspace/monitor setup.
+  ```bash
+  pip install windows_workspace_automator # Installation command
+  ```
 - [CodebaseUtils](https://github.com/cybrvybe/codespace_utils): A shared util library for handling common developer tasks, like copying the simplified, relevant codebase directory tree to the clipboard to paste into LLMs.
-- [WindowsPowershellScripts](https://github.com/cybrvybe/powershell-windows-automation-scripts): A shared script library for handling basic, recurrent windows tasks, such as setting up your dev environment on your local, via installations, etc, as well as some docker debugging scripts.
-
+  ```bash
+  pip install codebased_utils
+  ```
+- [WindowsPowershellAutomationScripts](https://github.com/cybrvybe/powershell-windows-automation-scripts): A shared script library for handling basic, recurrent windows tasks, such as setting up your dev environment on your local, via installations, etc, as well as some docker debugging scripts.
 ## 📚 Blog Posts
 
 - [The Intricacies of Probability: A Strong Case for Murphy’s Law and Decentralized Governance](https://cybrvybe.medium.com/the-intricacies-of-probability-a-strong-case-for-murphys-law-and-decentralized-governance-88bd093e2b69)
