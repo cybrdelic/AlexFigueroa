@@ -33,7 +33,7 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
 
 ## 🚀 Projects
 
-- [Python-spin-up](https://github.com/cybrvybe/python-spin-up): A CLI tool for streamlining Python project creation.
+- [CodebaseSeed](https://github.com/cybrvybe/python-spin-up): A CLI tool for streamlining Python project creation.
   ```bash
   pip install codebaseseed
   ```
