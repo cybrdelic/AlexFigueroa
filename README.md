@@ -35,15 +35,15 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
 
 - [Python-spin-up](https://github.com/cybrvybe/python-spin-up): A CLI tool for streamlining Python project creation.
   ```bash
-  pip install python_spin_up 
+  pip install codebaseseed
   ```
 - [RunDBFast](https://github.com/cybrvybe/rundbfast): Effortlessly spin up databases for rapid prototyping and consistent dev setups.
   ```bash
-  pip install rundbfast
+  pip install blitzkrieg
   ```
 - [WorkspaceAutomator](https://github.com/cybrvybe/workspace-automator):  A tool for autonomous daily setup of your work environment and workspace/monitor setup.
   ```bash
-  pip install windows_workspace_automator
+  pip install workspace_automator
   ```
 - [CodebaseUtils](https://github.com/cybrvybe/codespace_utils): A shared util library for handling common developer tasks, like copying the simplified, relevant codebase directory tree to the clipboard to paste into LLMs.
   ```bash
