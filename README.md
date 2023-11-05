@@ -37,7 +37,7 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
   ```bash
   pip install codebaseseed
   ```
-- [RunDBFast](https://github.com/cybrvybe/rundbfast): Effortlessly spin up databases for rapid prototyping and consistent dev setups.
+- [Blitzkrieg](https://github.com/cybrvybe/rundbfast): Effortlessly spin up databases for rapid prototyping and consistent dev setups.
   ```bash
   pip install blitzkrieg
   ```
@@ -49,7 +49,7 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
   ```bash
   pip install codebased_utils
   ```
-- [WindowsPowershellAutomationScripts](https://github.com/cybrvybe/powershell-windows-automation-scripts): A shared script library for handling basic, recurrent windows tasks, such as setting up your dev environment on your local, via installations, etc, as well as some docker debugging scripts.
+- [TraceMate]
 ## 📚 Blog Posts
 
 - [The Intricacies of Probability: A Strong Case for Murphy’s Law and Decentralized Governance](https://cybrvybe.medium.com/the-intricacies-of-probability-a-strong-case-for-murphys-law-and-decentralized-governance-88bd093e2b69)
