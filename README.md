@@ -34,13 +34,12 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
 ## 🚀 Projects
 
 - [CodebaseSeed](https://github.com/alexfigueroa-solutions/codebaseseed): A CLI tool for streamlining Python project creation.
-
+- [DynamicTaskline](https://github.com/alexfigueroa-solutions/DynamicTaskline): Elevating CLIs with Real-Time, Hierarchical Task Management and Enhanced UI/UX for Seamless Workflow Automation.
+- [WorkspaceAutomator](https://github.com/alexfigueroa-solutions/workspace-automator):  A tool for autonomous daily setup of your work environment and workspace/monitor setup.
 - [Blitzkrieg](https://github.com/alexfigueroa-solutions/Blitzkrieg): Effortlessly spin up databases for rapid prototyping and consistent dev setups.
   ```bash
   pip install blitzkrieg
   ```
-- [WorkspaceAutomator](https://github.com/alexfigueroa-solutions/workspace-automator):  A tool for autonomous daily setup of your work environment and workspace/monitor setup.
-
 - [CodebaseUtils](https://github.com/alexfigueroa-solutions/CodebasedUtils): A shared util library for handling common developer tasks, like copying the simplified, relevant codebase directory tree to the clipboard to paste into LLMs.
   ```bash
   pip install codebasedutils
@@ -49,8 +48,8 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
   ```bash
   pip install tracemate
   ```
-- [DynamicTaskline](https://github.com/alexfigueroa-solutions/DynamicTaskline): Elevating CLIs with Real-Time, Hierarchical Task Management and Enhanced UI/UX for Seamless Workflow Automation.
-- 
+
+  
 ## 📚 Blog Posts
 
 - [The Intricacies of Probability: A Strong Case for Murphy’s Law and Decentralized Governance](https://alexfigueroa-solutions.medium.com/the-intricacies-of-probability-a-strong-case-for-murphys-law-and-decentralized-governance-88bd093e2b69)
