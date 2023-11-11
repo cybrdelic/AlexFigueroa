@@ -35,7 +35,7 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
 
 - [CodebaseSeed](https://github.com/alexfigueroa-solutions/codebaseseed): A CLI tool for streamlining Python project creation.
 - [DynamicTaskline](https://github.com/alexfigueroa-solutions/DynamicTaskline): Elevating CLIs with Real-Time, Hierarchical Task Management and Enhanced UI/UX for Seamless Workflow Automation.
-- [WorkspaceAutomator](https://github.com/alexfigueroa-solutions/workspace-automator):  A tool for autonomous daily setup of your work environment and workspace/monitor setup.
+- [WorkspaceAutomator](https://github.com/alexfigueroa-solutions/WorkspaceAutomator):  A tool for autonomous daily setup of your work environment and workspace/monitor setup.
 - [Blitzkrieg](https://github.com/alexfigueroa-solutions/Blitzkrieg): Effortlessly spin up databases for rapid prototyping and consistent dev setups.
   ```bash
   pip install blitzkrieg
