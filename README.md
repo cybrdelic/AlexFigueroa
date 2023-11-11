@@ -1,8 +1,8 @@
 # Alejandro Figueroa 👋
 
-![GitHub followers](https://img.shields.io/github/followers/cybrvybe?style=social)
-![GitHub stars](https://img.shields.io/github/stars/cybrvybe?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/cybrvybe/rundbfast)
+![GitHub followers](https://img.shields.io/github/followers/alexfigueroa-solutions?style=social)
+![GitHub stars](https://img.shields.io/github/stars/alexfigueroa-solutions?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/alexfigueroa-solutions/rundbfast)
 
 ## 👨‍💻 About Me
 
@@ -33,28 +33,29 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
 
 ## 🚀 Projects
 
-- [CodebaseSeed](https://github.com/cybrvybe/python-spin-up): A CLI tool for streamlining Python project creation.
-  ```bash
-  pip install codebaseseed
-  ```
-- [Blitzkrieg](https://github.com/cybrvybe/rundbfast): Effortlessly spin up databases for rapid prototyping and consistent dev setups.
+- [CodebaseSeed](https://github.com/alexfigueroa-solutions/codebaseseed): A CLI tool for streamlining Python project creation.
+
+- [Blitzkrieg](https://github.com/alexfigueroa-solutions/Blitzkrieg): Effortlessly spin up databases for rapid prototyping and consistent dev setups.
   ```bash
   pip install blitzkrieg
   ```
-- [WorkspaceAutomator](https://github.com/cybrvybe/workspace-automator):  A tool for autonomous daily setup of your work environment and workspace/monitor setup.
+- [WorkspaceAutomator](https://github.com/alexfigueroa-solutions/workspace-automator):  A tool for autonomous daily setup of your work environment and workspace/monitor setup.
+
+- [CodebaseUtils](https://github.com/alexfigueroa-solutions/CodebasedUtils): A shared util library for handling common developer tasks, like copying the simplified, relevant codebase directory tree to the clipboard to paste into LLMs.
   ```bash
-  pip install workspace_automator
+  pip install codebasedutils
   ```
-- [CodebaseUtils](https://github.com/cybrvybe/codespace_utils): A shared util library for handling common developer tasks, like copying the simplified, relevant codebase directory tree to the clipboard to paste into LLMs.
+- [TraceMate](https://github.com/alexfigueroa-solutions/TraceMate): Automated Logging and Function Tracing Setup Tool.
   ```bash
-  pip install codebased_utils
+  pip install tracemate
   ```
-- [TraceMate]
+- [DynamicTaskline](https://github.com/alexfigueroa-solutions/DynamicTaskline): Elevating CLIs with Real-Time, Hierarchical Task Management and Enhanced UI/UX for Seamless Workflow Automation.
+- 
 ## 📚 Blog Posts
 
-- [The Intricacies of Probability: A Strong Case for Murphy’s Law and Decentralized Governance](https://cybrvybe.medium.com/the-intricacies-of-probability-a-strong-case-for-murphys-law-and-decentralized-governance-88bd093e2b69)
-- [Rethinking Data-Driven Assumptions: The Impact of Confounding Variables on Success](https://cybrvybe.medium.com/is-data-clouding-your-judgement-2e684849eeb3)
-- [The Unyielding Grip of Techno-Totalitarianism: The Inescapable Lock-In of Technological and Political Control](https://cybrvybe.medium.com/the-impending-doom-of-techno-totalitarian-lock-in-a-comprehensive-analysis-581ed961d57d)
+- [The Intricacies of Probability: A Strong Case for Murphy’s Law and Decentralized Governance](https://alexfigueroa-solutions.medium.com/the-intricacies-of-probability-a-strong-case-for-murphys-law-and-decentralized-governance-88bd093e2b69)
+- [Rethinking Data-Driven Assumptions: The Impact of Confounding Variables on Success](https://alexfigueroa-solutions.medium.com/is-data-clouding-your-judgement-2e684849eeb3)
+- [The Unyielding Grip of Techno-Totalitarianism: The Inescapable Lock-In of Technological and Political Control](https://alexfigueroa-solutions.medium.com/the-impending-doom-of-techno-totalitarian-lock-in-a-comprehensive-analysis-581ed961d57d)
 
 ## 📈 Goals
 
@@ -77,7 +78,7 @@ Beyond my day job, my unique contribution to the tech industry lies in my quest 
 
 ## 📫 Contact
 
-- 📧 [Email](mailto:cybrvybe@gmail.com)
+- 📧 [Email](mailto:alexfigueroa-solutions@gmail.com)
 - 👔 [LinkedIn](https://www.linkedin.com/in/alejandro-figueroa-206596198/)
 
 ## 🙏 Acknowledgments
